@@ -18,3 +18,16 @@ C:\Users\gabri\OneDrive\Área de Trabalho\C#\MontagemCurriculo\MontagemCurriculo
 C:\Users\gabri\OneDrive\Área de Trabalho\C#\MontagemCurriculo\MontagemCurriculo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
 C:\Users\gabri\OneDrive\Área de Trabalho\C#\MontagemCurriculo\MontagemCurriculo\obj\Debug\netcoreapp2.1\MontagemCurriculo.RazorTargetAssemblyInfo.cache
 C:\Users\gabri\OneDrive\Área de Trabalho\C#\MontagemCurriculo\MontagemCurriculo\obj\Debug\netcoreapp2.1\MontagemCurriculo.RazorTargetAssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\MontagemCurriculo\MontagemCurriculo\bin\Debug\netcoreapp2.1\MontagemCurriculo.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\MontagemCurriculo\MontagemCurriculo\bin\Debug\netcoreapp2.1\MontagemCurriculo.Views.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\MontagemCurriculo\MontagemCurriculo\bin\Debug\netcoreapp2.1\MontagemCurriculo.Views.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\MontagemCurriculo\MontagemCurriculo\obj\Debug\netcoreapp2.1\MontagemCurriculo.Views.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\MontagemCurriculo\MontagemCurriculo\obj\Debug\netcoreapp2.1\MontagemCurriculo.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\MontagemCurriculo\MontagemCurriculo\obj\Debug\netcoreapp2.1\MontagemCurriculo.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\MontagemCurriculo\MontagemCurriculo\obj\Debug\netcoreapp2.1\MontagemCurriculo.csproj.CopyComplete
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\MontagemCurriculo\MontagemCurriculo\obj\Debug\netcoreapp2.1\Razor\Views\Curriculos\Create.g.cshtml.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\MontagemCurriculo\MontagemCurriculo\obj\Debug\netcoreapp2.1\Razor\Views\Curriculos\Delete.g.cshtml.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\MontagemCurriculo\MontagemCurriculo\obj\Debug\netcoreapp2.1\Razor\Views\Curriculos\Details.g.cshtml.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\MontagemCurriculo\MontagemCurriculo\obj\Debug\netcoreapp2.1\Razor\Views\Curriculos\Edit.g.cshtml.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\MontagemCurriculo\MontagemCurriculo\obj\Debug\netcoreapp2.1\Razor\Views\Curriculos\Index.g.cshtml.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\MontagemCurriculo\MontagemCurriculo\obj\Debug\netcoreapp2.1\Razor\Views\Usuarios\Registro.g.cshtml.cs
